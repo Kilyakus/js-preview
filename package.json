@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-preview",
+	"productName": "preview",
+	"version": "2.2610.00602",
+	"description": "Loader of the stack: full-window by default or inside a container element; spinner, text, subtext and progress with adaptive layout. HoldView uses it for its loading state.",
+	"main": "js/preview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-preview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
